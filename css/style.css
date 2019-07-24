@@ -89,6 +89,7 @@ article {
 	height: auto;
 	text-align: left;
 	width: 80%;
+
 }
 
 section {
@@ -104,7 +105,9 @@ h2 {
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
-
+h3 {
+	padding-left: 30px;
+}
 p {
 	padding: 30px 0px;
 }
